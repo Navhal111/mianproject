@@ -1,0 +1,6 @@
+{
+    "require": {
+        "mfacenet/hello-world": "v1.*",
+        "slim/logger": "0.1.*"
+    }
+}

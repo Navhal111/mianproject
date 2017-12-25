@@ -1,0 +1,1 @@
+{"id":"1","token":"a8e1f79eaeaa249b4b45593132333435","edit_id":"1","status":"edit","customer_name":"sadasd","customer_email":"ylight528@gmail.com","customer_phone":"9737846981","customer_state":"0","customer_add":"B\/111 SHILPA PARK SOC , Chitrakut Appt. Lambe Hanuman Road Surat -395006","customer_PanCard":"asdasdasda","customer_gst":"asdasdasdafffff"}
